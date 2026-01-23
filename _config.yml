@@ -22,15 +22,16 @@ title: h4rutank blog
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Post my favorite music and whine
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: haru_tank
+baseurl: ""
+url: ""
+twitter_username: ""
 github_username:  h4rutank
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
