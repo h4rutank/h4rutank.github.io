@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Post my favorite music and whine
 baseurl: ""
-url: ""
+url: "https://h4rutank.github.io"
 github_username:  h4rutank
 
 # Build settings
