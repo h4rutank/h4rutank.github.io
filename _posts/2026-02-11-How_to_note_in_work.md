@@ -61,7 +61,7 @@ VS Notesを使うと、markdown形式でメモを取ることができる。<br>
     * 基本的にmarkdown形式
     * 画像のサイズはhtmlを使う。`<img src="ファイル名" width="80%" height="auto">`とか。
 
-    <img src="/img/IMG_0209" width="80%" height="auto">
+    <img src="/img/IMG_0209.png" width="80%" height="auto">
     <br>
 ### 所感
 満足している。<br>
