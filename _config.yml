@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: ""
 github_username:  h4rutank
+timezone: Asia/Tokyo
 
 # Build settings
 theme: minima
