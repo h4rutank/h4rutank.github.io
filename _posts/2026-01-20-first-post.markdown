@@ -6,7 +6,7 @@ categories: diary
 ### Overview
 GitHub pagesとJekyllでブログを作成しました。
 本記事ではその手順をご紹介します。
-タダでブログを作成・公開できるので、気に入っています。
+タダでブログを作成・公開できるので、気に入っています。<br><br>
 
 ### Prerequisites
 - Environment
@@ -16,10 +16,11 @@ GitHub pagesとJekyllでブログを作成しました。
     - [Ruby](https://rubyinstaller.org/): WITH DEVKITをダウンロード
         - インストーラで"MSYS2 development toolchain"を選択
         - ⚠️パスが通っていることを確認  
-            cmdで`ruby -v`と入力して、Rubyのバージョン情報が表示されればOK
+            cmdで`ruby -v`と入力して、Rubyのバージョン情報が表示されればOK<br><br>
 
 ### Quick Start
-ブログの立て方を説明します。
+ブログの立て方を説明します。<br>
+
 1. GitHubでブログ用リポジトリを作成  
     [Quickstart for GitHub Pages](https://docs.github.com/ja/pages/quickstart)の手順1-9をもとに、ブログ用リポジトリを作成
     - 手順3のリポジトリ名: `<ユーザ名>.github.io`
@@ -38,13 +39,13 @@ GitHub pagesとJekyllでブログを作成しました。
     bundle add webrick
     ```
     jekyllコマンドが使えない場合はrubyのパスが通っていないかもしれません。  
-    また、cmdで`where jekyll`を実行してjekyllのパスが表示されなければ、jekyllが正しくインストールされていません。
+    また、cmdで`where jekyll`を実行してjekyllのパスが表示されなければ、jekyllが正しくインストールされていません。<br>
 1. ローカルで動作確認  
     以下のコマンドを実行
     ```batch
     bundle exec jekyll serve
     ```
-    ブラウザで[localhost:4000](http://127.0.0.1:4000)へアクセスすると、ブログが表示されます。
+    ブラウザで[localhost:4000](http://127.0.0.1:4000)へアクセスすると、ブログが表示されます。<br>
 1. 作成したブログデータをGitHubへアップロード  
     以下のコマンドを実行
     ```batch
@@ -55,14 +56,14 @@ GitHub pagesとJekyllでブログを作成しました。
     git remote add origin https://github.com/<ユーザ名>/<ユーザ名>.github.io.git
     git push -u origin main
     ```
-    `git remote add origin`の引数のURLはGitHubリポジトリページのCode -> HTTPS に記載されています。
+    `git remote add origin`の引数のURLはGitHubリポジトリページのCode -> HTTPS に記載されています。<br>
 1. ブログ完成  
-    ブラウザで**https://<ユーザ名>.github.io**へアクセスすると、ブログが表示されます。
+    ブラウザで**https://<ユーザ名>.github.io**へアクセスすると、ブログが表示されます。<br><br>
 
 ### Post
-ブログへ記事を投稿する手順を説明します。
-1. 記事を作成  
-    myblog直下の_mypostというフォルダに、記事を作成していきます。  
+ブログへ記事を投稿する手順を説明します。<br>
+1. 記事を作成<br>
+    myblog直下の_mypostというフォルダに、記事を作成していきます。<br>
     記事はmarkdown形式のファイルで、投稿ごとにファイルを作成する必要があります。  
     たとえば、この記事のファイルの中身は以下の通りです。最初のヘッダ部分に記事のタイトル、投稿日、カテゴリなどの情報を記載します。
     ```markdown
@@ -74,7 +75,7 @@ GitHub pagesとJekyllでブログを作成しました。
     ### Overview
     GitHub pagesとJekyllでブログを作成しました。
     本記事ではその手順をご紹介します。
-    タダでブログを作成・公開できるので、気に入っています。
+    タダでブログを作成・公開できるので、気に入っています。<br><br>
 
     ### Prerequisites
     - Environment
@@ -88,7 +89,7 @@ GitHub pagesとJekyllでブログを作成しました。
 
     (以下略)
     ```
-
+    <br>
 1. ブログの更新  
     記事のファイルを保存したら、ブログの更新内容をGitHubのリポジトリへコミット、プッシュします。
     ```batch    
@@ -97,9 +98,9 @@ GitHub pagesとJekyllでブログを作成しました。
     git push
     ```
 
-    すると、投稿がブログに反映されます。
+    すると、投稿がブログに反映されます。<br><br>
 
 ### Conclusion
-...というわけで、ブログを始めます。電力工学や組み込みに関する記事を書いていくつもりです。
+...というわけで、ブログを始めます。電力工学や組み込みに関する記事を書いていくつもりです。<br>
 
 Stay tuned!😊

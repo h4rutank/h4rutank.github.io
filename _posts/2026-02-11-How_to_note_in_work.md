@@ -3,7 +3,7 @@ title: "どうやって仕事のメモを取るか"
 date: 2026-02-11
 categories: diary
 ---
-### markdownでメモを取りたい
+## markdownでメモを取りたい
 これまで、OneNoteでメモを取ってきたが、正直使いにくかった。<br>
 
 * ワンページでしかメモを取れない
@@ -30,17 +30,17 @@ categories: diary
 あと、どのメモに何を書いてたか忘れてしまうので、カテゴリ分類や内容の一括検索がしたい。<br><br>
 
 
-### VS codeでHackMDみたいなメモを取りたい
+## VS codeでHackMDみたいなメモを取りたい
 色々調べて、Visual Studio codeの拡張機能「**VS Notes**」を使うことにした。<br>
-VS Notesを使うと、markdown形式でメモを取ることができる。<br>いや、メモを取るだけなら拡張機能を入れなくてもいいんだけど、VS Notesはカテゴリ整理とファイル名の自動記名を行ってくれる。<br>仕事のメモって、ファイル名に日付を入れたいけど、いちいち入力するのが面倒じゃないですか。こいつは自動でやってくれます。<br><br>
+VS Notesを使うと、markdown形式でメモを取ることができる。<br>いや、メモを取るだけなら拡張機能を入れなくてもいいんだけど、VS Notesはカテゴリ整理とファイル名の自動記名を行ってくれる。<br>仕事のメモって、ファイル名に日付を入れたいけど、いちいち入力するのが面倒じゃないですか。こいつは自動でやってくれます。<br>加えて、VS codeの一括検索機能が使えるので、キーワード検索で探しているファイルへたどり着ける。<br><br>
 
-#### 導入手順
+### 導入手順
 1. 必要な拡張機能をVS codeへ追加
     * [VS Notes](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes): 今回の主役
     * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview): 編集中のmdファイルが、どのように表示されるかをリアルタイムでプレビューしてくれる
     <br>
 
-1. VS Notesの初期設定<br>[このページ](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes#quick-start)のQuikc Startに沿って進めていく。
+1. VS Notesの初期設定<br>[このページ](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes#quick-start)のQuick Startに沿って進めていく。
     * VS codeで`ctrl + shift + P`を押してコマンドパレットを開いて、`VSNotes: Run setup`を選択
     * 右下のポップアップで`Start`を押して、ファイルを保存する場所を設定
     * VS codeの再起動
@@ -52,21 +52,22 @@ VS Notesを使うと、markdown形式でメモを取ることができる。<br>
         * コマンドパレットを開いて、`Preferences: User settings open(json)`から`settings.json`へ`vsnotes.templates`の内容を追記（参考2をみてね！）
         <br>
 
-#### 使い方
+### 使い方
 1. VS codeで`ctrl + shift + P`を押してコマンドパレットを開いて、`VSNotes: Create a New Note`を選択
     <br>
 1. テンプレを選択して、ファイル名を入力
     <br>
 1. ノートを書いていく
     * 基本的にmarkdown形式
-    * 画像のサイズはhtmlを使う。`<img src="ファイル名" width="80%" height="auto">`とか。
+    * 画像のサイズはhtmlを使う。`<img src="ファイル名" width="90%" height="auto">`とか。
 
-    <img src="/img/IMG_0209.png" width="80%" height="auto">
-    <br>
-### 所感
+    <img src="/img/IMG_0209.png" width="90%" height="auto">
+    <br><br>
+
+## 所感
 満足している。<br>
 
-ただし、**markdownのデメリット**も受け入れなければならない。
+ただ、**markdownのデメリット**も受け入れなければならない。
 * 行間調整が手間。結局、`<br>`で改行しなきゃいけない。
 * シンプルな機能しかない。色を付けたり、フォントの変更など、テキストの装飾ができない。
 * ディスプレイが狭くなる。半分エディタ画面、半分プレビュー画面なので狭い。
