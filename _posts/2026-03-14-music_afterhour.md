@@ -1,0 +1,38 @@
+---
+title: "労働後に聴くmy favorite songs"
+date: 2026-03-14
+categories: diary
+---
+### "I can't handle it."って言いたい
+これまで、仕事や勉強をするときに胸に刻んでいた言葉がある。<br>
+>明日何とかなると思う馬鹿者、今日でさえ遅すぎるのだ。賢者はもう昨日済ませてる。<br>
+
+座右の銘を聞かれた際は「賢者はもう昨日済ませてる。」の部分だけ引用する。下ネタとしても使えるからね。<br>とにかく、今日できることは今日やらなきゃいけない、という強迫観念を刷り込んでいた。<br>
+
+だから、仕事を家に持ち帰ってしまう。土日も仕事をする。<br>前職でも土日は自主的に仕事の勉強に費やしていたけど、今はやらなきゃ平日の仕事が回らない。それは自分だけじゃなくて、世界中の同僚が休日の夜遅くまで働いている。<br>中国の同期は996とプレッシャーに耐えられず"I can't handle it."と言って辞めていった。<br><br>
+
+自分で選んだ仕事だけど、辛すぎて楽しいと思えたことがない。苦しみの対価で給料をもらっている。<br>だから、救いを求めて音楽を聴く。<br><br>
+
+
+
+### SHISHAMOの『明日も』みたいな耐える理由がほしい
+月火水木金働いているけど、まだ分からないことだらけで不安になって、週末も仕事をしてしまう。本当は、好きなミュージシャンのライブへ行ったり、家具や雑貨を買いに行きたい。<br>
+
+「私は私のために生きる。私はあなたの期待に応えるために生きているのではない。」なんて、ゲシュタルトの祈りを唱えてみる。他人の期待に応える必要のない生き方が理想だけど、仕事を続ける限り、誰かの期待に応え続けなきゃいけない。<br>
+
+自分の希望と理想を後回しにして、仕事に取り組むためには狂信的なモチベーションがいる。それが憧れの人だったりする。<br>
+
+前職でもそうだったが「若手エースの〇〇さんみたいになれ」と言われる。モデルケースがいたら、上司も若手も目標を設定しやすい。<br>これって、全員が〇〇さんに騙されているだけだと思う。前職の〇〇さんは平日は人の２倍くらい働いて、休日は業務に関する技能講習を受講しに行く。真似できない。<br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhCtzmDWsN0?si=uICLZBVLalFkL4x5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br><br>
+
+### 岡林風穂の『刺激的な昼下がり』みたいな達観した上で自堕落を許せる人間になりたい
+エセ・ミニマリストだから、つい無駄な買い物をしてしまって、あとで罪悪感にさいなまれる。憧れの人に追いつくために、青春を犠牲にストイックに生きてきたけど、そういうことじゃなかったんだ、って後になって気づいた。<br>
+頭と心が一致していないまま無理しても、思い通りにいかないことばかりだったな～と振り返る。<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gG3NrUV8Tx8?si=ptyT9ynnfn5uFvCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br><br>
+
+同じアルバムの「サービスエリアでソフトクリーム」という曲も好きだ。<br>前職で先輩と遠出したとき、迷子になって帰社が遅れてるのに、サービスエリアでソフトクリームを食べた思い出がよみがえる。直球だね。<br>別に急がなくてもいいのに、忙しなく生きてる。<br>慣習的な社風の中で金髪や銀髪にしたり、気に食わないことをはっきり言って、人からどう見られているかなんて知ったこっちゃないって先輩だった。元気にしてるかな。
