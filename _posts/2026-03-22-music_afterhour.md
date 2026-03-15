@@ -1,6 +1,6 @@
 ---
 title: "労働後に聴くmy favorite songs"
-date: 2026-03-14
+date: 2026-03-22
 categories: diary
 ---
 ### "I can't handle it."って言いたい

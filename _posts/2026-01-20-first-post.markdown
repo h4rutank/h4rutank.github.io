@@ -3,7 +3,7 @@ title: "Jekyllでブログはじめました"
 date: 2026-01-20
 categories: diary
 ---
-### Overview
+## Overview
 GitHub pagesとJekyllでブログを作成しました。
 本記事ではその手順をご紹介します。
 タダでブログを作成・公開できるので、気に入っています。<br><br>
@@ -18,7 +18,7 @@ GitHub pagesとJekyllでブログを作成しました。
         - ⚠️パスが通っていることを確認  
             cmdで`ruby -v`と入力して、Rubyのバージョン情報が表示されればOK<br><br>
 
-### Quick Start
+## Quick Start
 ブログの立て方を説明します。<br>
 
 1. GitHubでブログ用リポジトリを作成  
@@ -60,7 +60,7 @@ GitHub pagesとJekyllでブログを作成しました。
 1. ブログ完成  
     ブラウザで**https://<ユーザ名>.github.io**へアクセスすると、ブログが表示されます。<br><br>
 
-### Post
+## Post
 ブログへ記事を投稿する手順を説明します。<br>
 1. 記事を作成<br>
     myblog直下の_mypostというフォルダに、記事を作成していきます。<br>
@@ -72,7 +72,7 @@ GitHub pagesとJekyllでブログを作成しました。
     date: 2026-01-20
     categories: diary
     ---
-    ### Overview
+    ## Overview
     GitHub pagesとJekyllでブログを作成しました。
     本記事ではその手順をご紹介します。
     タダでブログを作成・公開できるので、気に入っています。<br><br>
@@ -100,7 +100,7 @@ GitHub pagesとJekyllでブログを作成しました。
 
     すると、投稿がブログに反映されます。<br><br>
 
-### Conclusion
+## Summary
 ...というわけで、ブログを始めます。電力工学や組み込みに関する記事を書いていくつもりです。<br>
 
 Stay tuned!😊

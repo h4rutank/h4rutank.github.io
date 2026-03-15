@@ -6,27 +6,27 @@ categories: diary
 ## Introduction
 先月、研究室の同窓会で東京へ行った。<br>久しぶりの東京で、少しでも雰囲気を味わいたかったから、早起きして赤坂離宮から東京駅まで散歩した。<br>グレーの均等拡散面（曇り空）を見上げれば、雪の予報は当たるんだろうと思いつつ、雪になじみのない西日本出身だから見積もりが甘かった。東京駅に着くころには雪だるまになっていた。<br>
 
-道中、ホテルニューオータニを通った。1964年東京オリンピックの際に建設された格式高い老舗ホテルだ。
-<img src="/img/0228_01.png" width="80%" height="auto">
+道中、ホテルニューオータニを通った。1964年東京オリンピックの際に建設された格式高い老舗ホテルだ。<br>
+<img src="/img/0228_01.png" width="50%" height="auto">
+<br>
 
 ホテルニューオータニの最上階レストラン「VIEW & DINING THE SKY」は、床が回転（0.0143 rpm=70分で一周）する回転展望レストランだった。<br>
 
 建設に携わった大成建設によると、レストランの回転機構には戦艦大和の砲台を回転させるベアリング技術が応用されているらしい。（参考: [大成建設](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.taisei.co.jp/MungoBlobs/810/103/jigyohokoku2009_01.pdf)）<br>
 
-現代風に言えば、**スラストベアリング**。大和の砲台では、方位角方向に回転する**ころ**（転動体）が使われていた。イメージは画像右側でチルトが無いかんじ。
-<img src="/img/0228_02.png" width="90%" height="auto">
-(引用: [JTEKT](https://koyo.jtekt.co.jp/bearing-column/select-bearing/select-bearing_01.html))<br><br>
+現代風に言えば、**スラストベアリング**。大和の砲台では、方位角方向に回転する**ころ**（転動体）が使われていた。イメージは画像右側でチルトが無いかんじ。<br>
+<img src="/img/0228_02.png" width="90%" height="auto"><br>(引用: [JTEKT](https://koyo.jtekt.co.jp/bearing-column/select-bearing/select-bearing_01.html))<br><br>
 
 レストランを回転させるという、無茶な要望を実現するために軍事技術を展開する発想に感動した。<br>
 これを機に「民生インフラへ活かされている軍事技術」を調べたので、いくつか紹介したい。<br><br>
 
+---
 ## Main
 ### DAIKINの空調
 戦時中、大阪金属工業所（現・ダイキン）は航空部品や内燃機関部品の製造を行っていた。1930年、フロン冷媒の製品開発にも取り組み、国内初のフロン生産に成功する。<br>
 
-1938年、日本海軍潜水艦向けに空調設備を提供。<br>熱帯を含む南太平洋での長期作戦のため、潜水艦内部の環境を維持する空調設備が必要だった。
-<img src="/img/0228_03.png" width="90%" height="auto">
-（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%9B%9B%E7%99%BE%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6)）<br><br>
+1938年、日本海軍潜水艦向けに空調設備を提供。<br>熱帯を含む南太平洋での長期作戦のため、潜水艦内部の環境を維持する空調設備が必要だった。<br>
+<img src="/img/0228_03.png" width="90%" height="auto"><br>（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%9B%9B%E7%99%BE%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6)）<br><br>
 
 潜水艦や戦艦のような、過酷な環境での長期運用に耐える高信頼性の技術がここで培われた。<br>
 
@@ -42,8 +42,7 @@ categories: diary
 人体は極めて自由度の高い柔軟性をもつ代わりに、厚皮類や甲殻類のような鎧をもたない。人類は闘争の歴史の中で、鎧を開発して、人体の脆さを補ってきた。
 
 現代の鎧と言われる防弾ベストは、デュポンのステファニー・クウォレクの発明したケブラー繊維（Kevlar）をもとに開発された。<br>
-<img src="/img/0228_04.png" width="30%" height="auto"> <img src="/img/0228_05.png" width="24.1%" height="auto">
-（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%AA%E3%83%AC%E3%82%AF)）<br>
+<img src="/img/0228_04.png" width="30%" height="auto"> <img src="/img/0228_05.png" width="24.1%" height="auto"><br>（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%AA%E3%83%AC%E3%82%AF)）<br>
 
 防弾ベストは、ケブラー繊維が数十層重なっており、弾丸が撃ち込まれるとケブラー繊維は伸びて衝撃を拡散することで弾丸を止める。<br>
 
@@ -54,38 +53,33 @@ categories: diary
 
 民生への応用も多い。消防服やドライバーのヘルメットなど、防護具は勿論だが、橋やエレベータのケーブルにも使われている。
 
-たとえば、世界最長のつり橋・明石海峡大橋はケブラーロープが採用されている。合成繊維なので防腐性も高く、ライフサイクル向上にも貢献する。<br>※明石海峡大橋の防腐対策の送気乾燥システムは面白そう。
-
-<img src="/img/0228_06.png" width="80%" height="auto">
-
-（引用： [本四高速](https://www.jb-honshi.co.jp/bridgeworld/) ）<br><br>
+たとえば、世界最長のつり橋・明石海峡大橋はケブラーロープが採用されている。合成繊維なので防腐性も高く、ライフサイクル向上にも貢献する。<br>※明石海峡大橋の防腐対策の送気乾燥システムは面白そう。<br>
+<img src="/img/0228_06.png" width="80%" height="auto"><br>（引用： [本四高速](https://www.jb-honshi.co.jp/bridgeworld/) ）<br><br>
 
 宇宙エレベータでもケブラー繊維が検討されたが、さすがに静止軌道から垂らすと自重で切れるらしい。
-カーボンナノチューブなら理論上可能ってマジ？
-<img src="/img/0228_07.png" width="80%" height="auto">
-（引用： [総務省](https://www.soumu.go.jp/main_content/000585155.pdf)）<br><br>
+カーボンナノチューブなら理論上可能ってマジ？<br>
+<img src="/img/0228_07.png" width="80%" height="auto"><br>（引用： [総務省](https://www.soumu.go.jp/main_content/000585155.pdf)）<br><br>
 
 参考文献: トマス・J・クローウェル『戦争と科学者』
 <br><br>
 
 ### メッシュネットワーク
 1970年代、米国国防高等研究計画局DARPAは戦場の通信インフラとして**MANET**を研究していた。<br>
-MANETは現在の**メッシュネットワーク**の基となる技術だ。基地局への攻撃やジャミング、死角の多い戦場、移動体同士の通信など、外乱の多い戦場で安定して通信を行うために考案された。<br>
+MANETは現在の**メッシュネットワーク**の基となる技術だ。基地局への攻撃やジャミング、死角の多い戦場、移動体同士の通信など、外乱の多い戦場で安定して通信を行うために考案された。<br><br>
 
-ここで、簡単にメッシュネットワークの特徴を説明する。<br>Wi-FiやBLEなど一般的な無線ネットワークは「スタートポロジー」である。1つのルーターに複数の端末が接続するような構造をとる。<br>一方、メッシュネットワークは端末同士も接続してネットワーク経路をつくる。つまり、２つの端末間の通信が途切れても、別の経路をたどって、接続を復帰できる。<br>この特徴から、メッシュネットワークは耐障害性、自己修復性、拡張性に優れている。<br>
+ここで、簡単にメッシュネットワークの特徴を説明する。<br>Wi-FiやBLEなど一般的な無線ネットワークは「スタートポロジー」である。1つのルーターに複数の端末が接続するような構造をとる。<br>一方、メッシュネットワークは端末同士も接続してネットワーク経路をつくる。つまり、２つの端末間の通信が途切れても、別の経路をたどって、接続を復帰できる。<br>この特徴から、メッシュネットワークは耐障害性、自己修復性、拡張性に優れている。<br><br>
 
 2010年、Raytheon社（現 RTX社）が戦闘車両間の通信ネットワークとしてMANETを基にした**EMARS**を米軍へ提供する。（参考: [RTX](https://raytheon.mediaroom.com/index.php?s=43&item=1579)）
 
-さらに、近年ではPersistent Systems社がドローンやUGV、UASも含むMANETネットワークを形成する技術を提供している。
-<img src="/img/0228_08.png" width="90%" height="auto">
-（引用: [Persistent Systems](https://persistentsystems.com/wp-content/themes/persistensystems/pdf/03EN327-GVR5-Rev.-H.pdf)）
+さらに、近年ではPersistent Systems社がドローンやUGV、UASも含むMANETネットワークを形成する技術を提供している。<br>
+<img src="/img/0228_08.png" width="90%" height="auto"><br>（引用: [Persistent Systems](https://persistentsystems.com/wp-content/themes/persistensystems/pdf/03EN327-GVR5-Rev.-H.pdf)）
 
 メッシュネットワークは民生でも応用されており、Wi-SUN、Amazon Sidewalk、M-BUSなど、様々な通信規格があり、身近なところではスマートメータやスマートビルディングで使われている。<br>
 スマートメータのデータは、ご近所さんのスマートメーターを介して、電力会社に送られる。<br>
-<img src="/img/0228_09.png" width="80%" height="auto">
-（引用: [Renesas](https://www.renesas.com/en/software-tool/sub-ghzwi-sun-protocol-stack?srsltid=AfmBOopZDMpTXbkBpxWXlo9Cm4MCRfmFhpS8F2QdvX3mNLjZWelDXx_U)）
+<img src="/img/0228_09.png" width="80%" height="auto"><br>（引用: [Renesas](https://www.renesas.com/en/software-tool/sub-ghzwi-sun-protocol-stack?srsltid=AfmBOopZDMpTXbkBpxWXlo9Cm4MCRfmFhpS8F2QdvX3mNLjZWelDXx_U)）
 <br>
 
+---
 ## Summary
 軍事技術に求められる過大な耐久性と信頼性は、社会インフラとの相性が良い。<br>インフラの工事・維持・運用に携わる人材不足が顕著な問題になっている昨今では、軍需産業とのシナジーを活用していく必要がある。<br><br>
 

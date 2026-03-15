@@ -64,7 +64,7 @@ VS Notesを使うと、markdown形式でメモを取ることができる。<br>
     <img src="/img/IMG_0209.png" width="90%" height="auto">
     <br><br>
 
-## 所感
+## 雑感
 満足している。<br>
 
 ただ、**markdownのデメリット**も受け入れなければならない。
