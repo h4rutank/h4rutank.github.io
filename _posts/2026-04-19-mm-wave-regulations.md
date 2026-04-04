@@ -1,7 +1,7 @@
 ---
 title: ミリ波センサの法的規制
 data: 2026-04-12
-categories: radar
+categories: Electroics
 ---
 ## ミリ波センサも電波法適用
 

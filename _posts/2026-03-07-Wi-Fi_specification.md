@@ -1,7 +1,7 @@
 ---
 title: "Wi-Fi 仕様まとめ"
 date: 2026-03-07
-categories: Connectivity
+categories: Electroics
 ---
 自分用にWi-Fiの仕様をまとめていく。適宜更新予定。
 

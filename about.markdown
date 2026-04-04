@@ -10,8 +10,8 @@ This is my private blog. I hope you enjoy it😊
 ### Backgrounds
 - Bachelor of engineering, Tokyo Tech \| Quantum photonics
 - Master of engineering, Tokyo Tech \| Quantum photonics
-- Engineer at Power Transmittion & Distribution company \| Substation (1.5 year)
-- Engineer at Semiconductor company \| Connectivity & Radar (now)
+- Engineer at Power Transmittion & Distribution company \| Substation (-2025 Sep)
+- Engineer at Semiconductor company \| Connectivity & Radar (-now)
 
 ### Certifications
 - Class II Electrician License (Japan)
