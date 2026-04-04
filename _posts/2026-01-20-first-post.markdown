@@ -8,6 +8,7 @@ GitHub pagesとJekyllでブログを作成しました。
 本記事ではその手順をご紹介します。
 タダでブログを作成・公開できるので、気に入っています。<br><br>
 
+---
 ### Prerequisites
 - Environment
     - Windows 11
@@ -100,6 +101,7 @@ GitHub pagesとJekyllでブログを作成しました。
 
     すると、投稿がブログに反映されます。<br><br>
 
+---
 ## Summary
 ...というわけで、ブログを始めます。電力工学や組み込みに関する記事を書いていくつもりです。<br>
 
