@@ -1,6 +1,6 @@
 ---
 title: 軍事技術の社会インフラへの展開
-data: 2026-03-01
+date: 2026-03-01
 categories: diary
 ---
 ## Introduction

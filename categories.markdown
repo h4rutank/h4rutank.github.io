@@ -6,7 +6,7 @@ permalink: /categories/
 
 # Categories
 
-Here's a catefory list of posts.
+Here's a category list of posts.
 
 <ul>
   {% for category in site.categories %}

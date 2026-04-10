@@ -1,7 +1,7 @@
 ---
 title: 自作キーボードを作製した
-data: 2026-03-15
-categories: Electroics
+date: 2026-03-15
+categories: Electronics
 ---
 ## Introduction
 キーボードを作りたくなった。<br>
