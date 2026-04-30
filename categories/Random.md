@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Electronics"
-permalink: /categories/Electronics/
+title: "Random"
+permalink: /categories/Random/
 ---
 
-電子工作
+雑記
 
 <ul>
-  {% for post in site.categories.Electronics %}
+  {% for post in site.categories.diary %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span>{{ post.date | date: "%Y-%m-%d" }}</span>

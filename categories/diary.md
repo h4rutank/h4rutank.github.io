@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Diary"
-permalink: /categories/diary/
+permalink: /categories/Diary/
 ---
 
-# Diary
-
-Diary posts
+日記
 
 <ul>
   {% for post in site.categories.diary %}

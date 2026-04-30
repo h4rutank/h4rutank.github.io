@@ -1,7 +1,7 @@
 ---
 title: "転職時期に聴いた曲/the Loupes『針の音』"
 date: 2026-04-04
-categories: diary
+categories: Diary
 ---
 
 つい最近、自分の好きなthe Loupesというバンドの『針の音』がサブスクに追加された。

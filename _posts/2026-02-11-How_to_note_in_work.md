@@ -1,7 +1,7 @@
 ---
 title: "どうやって仕事のメモを取るか"
 date: 2026-02-11
-categories: diary
+categories: Random
 ---
 ## markdownでメモを取りたい
 これまで、OneNoteでメモを取ってきたが、正直使いにくかった。<br>

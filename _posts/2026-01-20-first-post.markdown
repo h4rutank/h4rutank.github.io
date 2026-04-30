@@ -1,9 +1,9 @@
 ---
 title: "Jekyllでブログはじめました"
 date: 2026-01-20
-categories: diary
+categories: Random
 ---
-## Overview
+## Introduction
 GitHub pagesとJekyllでブログを作成しました。
 本記事ではその手順をご紹介します。
 タダでブログを作成・公開できるので、気に入っています。<br><br>

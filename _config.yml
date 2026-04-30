@@ -32,8 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+header_pages:
+  - about.markdown
+  - categories.markdown
 
-future: true
+# Hide future incomplete post
+# future: true
 
 google_analytics: G-7J7VPXN0B0
 
