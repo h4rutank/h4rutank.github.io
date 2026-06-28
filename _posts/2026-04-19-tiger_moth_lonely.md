@@ -1,12 +1,11 @@
 ---
-title: "要らないものばかりの部屋で暮らしたい
+title: "要らないものばかりの部屋で暮らしたい"
 date: 2026-04-19
 categories: Diary 
 ---
 
 kiss the gamblerの新曲『クワゴマダラヒトリ』にハマってる。<br>曲名をみた瞬間「クワゴマダラが一人？」と勘違いしたけど、ジャケ写をみたら芋虫と分かる親切さ。<br>
 
-<iframe eight="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" src="https://www.youtube.com/embed/YB5R0Y5aXug?si=dO8M9sPSeXUgY3_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br>
 
