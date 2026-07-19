@@ -1,10 +1,10 @@
 ---
-title: "転職時期に聴いた曲/the Loupes『針の音』"
+title: "the Loupesってバンド"
 date: 2026-04-04
 categories: Diary
 ---
 
-つい最近、自分の好きなthe Loupesというバンドの『針の音』がサブスクに追加された。
+つい最近、自分の好きなthe Loupesの『針の音』がサブスクに追加された。
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/RigD16UEsUE?si=C1l5TRyp_y8zIYX_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
