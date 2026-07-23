@@ -4,7 +4,11 @@ title: "Random"
 permalink: /categories/Random/
 ---
 
-雑記
+**雑感**<br>
+
+ <p>どこにだってあるものでも、こことそこじゃ違うので、ここにないからどこかにあると思って来ただけです。</p>
+こそあど言葉を多用すると混乱して伝わらないから気を付けましょうって、小１で言われるじゃん。大人になったら忘れてたよ。
+
 
 <ul>
   {% for post in site.categories.Random %}

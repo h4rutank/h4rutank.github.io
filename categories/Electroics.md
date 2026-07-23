@@ -4,7 +4,9 @@ title: "Electronics"
 permalink: /categories/Electronics/
 ---
 
-電子工作
+**電子工作**<br>
+
+コンプレックスで続けて、仕事になりました。<br>
 
 <ul>
   {% for post in site.categories.Electronics %}
