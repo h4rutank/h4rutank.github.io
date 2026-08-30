@@ -26,12 +26,13 @@ categories: Random
 毎週読んでた『セッちゃん』って漫画。大島智子つながりで、宇宙ネコ子の『Like a Raspberry』。映画『台北暮色』。<br><br>
 
 こういう作品の魅力は、言葉にして伝えようと試行錯誤すれば、伝えられるのかもしれない。<br>
-でも、僕の感じた魅力は、僕自身の物語って文脈がないと理解できない。<br><br>
+でも、僕の感じた魅力は、僕自身の物語って文脈がないと理解できない。それぞれの記憶が散らばっていて、そのつながりがあまりにも個人的。<br><br>
 
 ...かといって、言語化アンチというわけではなくて、できるようになりたいんです。<br>
 大学で柳瀬博一先生の講義をうけて、衝撃を受けた。すべての聞き手が先生の話の魅力に引き込まれる。<br>
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/jp/podcast/25-%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB%E3%81%AB%E4%BB%95%E6%8E%9B%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F-%E6%84%8F%E5%9B%B3-%E3%82%92%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%91-%E3%82%B2%E3%82%B9%E3%83%88-%E6%9F%B3%E7%80%AC%E5%8D%9A%E4%B8%80-%E6%9D%B1%E4%BA%AC%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6-%E6%95%99%E6%8E%88/id1805148104?i=1000727642095&l=en-US"></iframe>
 
-大学を卒業した後も、たまに柳瀬先生のpodcastを聴いては、こんな大人になりたいと思ってる。<br>
-大学生のときに気まぐれで投稿した詩が佳作をとって、結局嬉しかったんです。<br>
+大学を卒業した後も、たまに柳瀬先生のpodcastを聴いては、こんな大人になりたいと思ってる。<br><br>
+
+大学生のときに気まぐれで投稿した詩が佳作をとって、結局嬉しかった。<br>

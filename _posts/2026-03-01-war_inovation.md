@@ -7,7 +7,7 @@ categories: Random
 先月、研究室の同窓会で東京へ行った。<br>久しぶりの東京で、少しでも雰囲気を味わいたかったから、早起きして赤坂離宮から東京駅まで散歩した。<br>グレーの均等拡散面（曇り空）を見上げれば、雪の予報は当たるんだろうと思いつつ、雪になじみのない西日本出身だから見積もりが甘かった。東京駅に着くころには雪だるまになっていた。<br>
 
 道中、ホテルニューオータニを通った。1964年東京オリンピックの際に建設された格式高い老舗ホテルだ。<br>
-<img src="/img/0228_01.png" width="50%" height="auto">
+<img src="/img/0228_01.jpeg" width="50%" height="auto">
 <br>
 
 ホテルニューオータニの最上階レストラン「VIEW & DINING THE SKY」は、床が回転（0.0143 rpm=70分で一周）する回転展望レストランだった。<br>
@@ -41,7 +41,7 @@ categories: Random
 人体は極めて自由度の高い柔軟性をもつ代わりに、厚皮類や甲殻類のような鎧をもたない。人類は闘争の歴史の中で、鎧を開発して、人体の脆さを補ってきた。
 
 現代の鎧と言われる防弾ベストは、デュポンのステファニー・クウォレクの発明したケブラー繊維（Kevlar）をもとに開発された。<br>
-<img src="/img/0228_04.png" width="30%" height="auto"> <img src="/img/0228_05.png" width="24.1%" height="auto"><br>（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%AA%E3%83%AC%E3%82%AF)）<br>
+<img src="/img/0228_04.jpeg" width="30%" height="auto"> <img src="/img/0228_05.jpeg" width="24.1%" height="auto"><br>（引用： [wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AF%E3%82%AA%E3%83%AC%E3%82%AF)）<br>
 
 防弾ベストは、ケブラー繊維が数十層重なっており、弾丸が撃ち込まれるとケブラー繊維は伸びて衝撃を拡散することで弾丸を止める。<br>
 

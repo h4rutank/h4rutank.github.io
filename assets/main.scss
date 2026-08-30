@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// minima resets every heading's margin to 0 and only adds space *below* them,
+// so a `###` sits flush against the paragraph it follows. Give section headings
+// roughly two blank lines of breathing room above instead.
+.post-content {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 3rem;
+  }
+
+  // A heading that opens the post shouldn't be pushed away from the title.
+  > :first-child {
+    margin-top: 0;
+  }
+}
