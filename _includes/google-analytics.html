@@ -1,0 +1,8 @@
+<!-- minima 2.5 の google-analytics.html は旧 analytics.js (UA-) 用で G- の測定IDでは動かないため、GA4 の gtag.js で上書きする -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+</script>
