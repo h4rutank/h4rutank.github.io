@@ -21,3 +21,41 @@
     margin-top: 0;
   }
 }
+
+// A code block followed by `{: data-file="west.yml"}` shows the file name as a
+// tab stuck to the block's top-left corner.
+.post-content div.highlighter-rouge[data-file] {
+  &::before {
+    content: attr(data-file);
+    display: inline-block;
+    padding: 2px 10px;
+    font-family: Menlo, Consolas, monospace;
+    font-size: 13px;
+    color: $grey-color-dark;
+    background-color: $grey-color-light;
+    border: 1px solid $grey-color-light;
+    border-bottom: none;
+    border-radius: 3px 3px 0 0;
+  }
+
+  pre.highlight {
+    border-top-left-radius: 0;
+  }
+}
+
+// Long display equations (MathJax) scroll sideways on narrow screens instead of
+// pushing the whole page wider than the viewport.
+.post-content mjx-container[display="true"] {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  // overflow-y: hidden clips fractions whose glyphs poke a few px past the box,
+  // so give the box room above and below.
+  padding: 0.5em 0;
+}
+
+// Display equations are centered, except inside a bullet/numbered list where
+// they line up with the item text.
+.post-content li mjx-container[display="true"] {
+  text-align: left;
+}
