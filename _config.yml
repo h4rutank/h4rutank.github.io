@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Post my favorite music and whine
 baseurl: ""
-url: ""
+url: "https://h4rutank.github.io"
 github_username:  h4rutank
 timezone: Asia/Tokyo
 
@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 header_pages:
   - about.markdown
   - categories.markdown
