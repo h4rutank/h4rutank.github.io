@@ -1,7 +1,7 @@
 ---
 title: "言語化が苦手"
 date: 2026-08-22
-categories: Random
+categories: Diary
 ---
 
 僕は言語化が苦手です。<br>
