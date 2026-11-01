@@ -37,8 +37,8 @@ header_pages:
   - about.markdown
   - categories.markdown
 
-# Hide future incomplete post
-# future: true
+# Publish posts whose date is in the future (default: false)
+future: true
 
 google_analytics: G-7J7VPXN0B0
 
