@@ -1,5 +1,5 @@
 ---
-title: "要らないものばかりの部屋で暮らしたい"
+title: "kiss the gambler『クワゴマダラヒトリ』"
 date: 2026-04-19
 categories: Diary 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "the Loupesってバンド"
+title: "the Loupes『針の音』"
 date: 2026-04-04
 categories: Diary
 ---
